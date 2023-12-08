@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldLeague", "WorldLeague\WorldLeague.csproj", "{EFF50978-F0F9-4B13-B51A-F4161E256F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{16CA7BD1-D631-4287-A3A2-3B1F46D6246F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{F95B90E8-549A-4A6A-B9FE-FF51E29B393B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF50978-F0F9-4B13-B51A-F4161E256F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF50978-F0F9-4B13-B51A-F4161E256F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF50978-F0F9-4B13-B51A-F4161E256F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF50978-F0F9-4B13-B51A-F4161E256F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CA7BD1-D631-4287-A3A2-3B1F46D6246F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CA7BD1-D631-4287-A3A2-3B1F46D6246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CA7BD1-D631-4287-A3A2-3B1F46D6246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CA7BD1-D631-4287-A3A2-3B1F46D6246F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95B90E8-549A-4A6A-B9FE-FF51E29B393B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95B90E8-549A-4A6A-B9FE-FF51E29B393B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95B90E8-549A-4A6A-B9FE-FF51E29B393B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95B90E8-549A-4A6A-B9FE-FF51E29B393B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC094A6-A97E-4CE7-A5E8-148A490055B6}
+	EndGlobalSection
+EndGlobal
